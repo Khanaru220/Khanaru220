@@ -1,5 +1,7 @@
 ## my first server, why don't test new feature of Github?
 
+(it has SOUND)
+
 https://user-images.githubusercontent.com/74447462/172862638-74ddb544-88ee-4585-99bf-3a46e78f6c04.mp4
 
 |music|  |
